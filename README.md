@@ -1,4 +1,11 @@
-### Hi there 👋
+#### 😄 Hi bros 👋
+
+#### 🌱 I've been an educator for more than 20 years. I specialize in online course design, video editing and training instruction.
+#### 🌱 I enjoy working with software tools and also have IT operations and maintenance skills.
+#### 
+####
+#### 📫 LinkedIn: https://linkedin.com/in/leekinman
+
 
 <!--
 **pperlee/pperlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
